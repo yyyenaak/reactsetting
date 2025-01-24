@@ -9,21 +9,25 @@ Currently, two official plugins are available:
 
 
 ## How To Use?
-- Cheaking Ver.
+- 버전체크
    ```node -v && npm -v     //버전확인```
-- Create New Folder:
+- 폴더생성:
   ```
   npm create vite@latest
   - Write folder Name
   - Choose React && JS
   ```
   
-- Install the dependencies:
+- 세팅 다운로드:
   ```
   cd reactsetting(or folder name)
   npm install
   ```
 
-- Start React:
+- 리액트 확인:
   ```npm run dev```
-- Add your code to App.jsx and open index.html
+- 코드작성은 App.jsx 에서
+
+#### 세팅 완료!
+- ![image](https://github.com/user-attachments/assets/520faf0e-4a72-40b0-a858-d150ed528869)
+
