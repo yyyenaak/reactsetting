@@ -14,14 +14,14 @@ Currently, two official plugins are available:
 - Create New Folder:
   ```
   npm create vite@latest
-  - Write Name
+  - Write folder Name
   - Choose React && JS
   ```
   
 - Install the dependencies:
   ```
-  1. cd reactsetting
-   2. npm install
+  cd reactsetting(or folder name)
+  npm install
   ```
 
 - Start React:
